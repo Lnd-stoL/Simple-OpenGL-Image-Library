@@ -1,0 +1,1 @@
+/home/leonid/Dev/glGraphics/dependencies/Simple-OpenGL-Image-Library/build/CMakeFiles/SOIL.dir

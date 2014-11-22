@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonid/Dev/glGraphics/dependencies/Simple-OpenGL-Image-Library/src/query_extensions_gl32.cpp
+query_extensions_gl32.h
+/home/leonid/Dev/glGraphics/dependencies/Simple-OpenGL-Image-Library/src/query_extensions_gl32.h
+glbinding/gl/gl32core.h
+-
+string.h
+-
+
+/home/leonid/Dev/glGraphics/dependencies/Simple-OpenGL-Image-Library/src/query_extensions_gl32.h
+
